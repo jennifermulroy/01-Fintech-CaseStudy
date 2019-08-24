@@ -5,3 +5,8 @@ Class Activity
 * Company name: My Tech Co.
 * Found in  2005
 
+## Background
+
+## Landscape
+
+## Future
