@@ -4,10 +4,11 @@ FinTech Case Study: Man versus Machine in Stock Picking
 
 ## Table of Contents
 1. [Company Information](#Company-Information)
-2. [Business Activities](#Business-Activities)
-3. [Landscape](#Landscape) 
-4. [Results](#Results)
-5. [Recommendations](#Recommendations) 
+1. [Business Activities](#Business-Activities)
+1. [Landscape](#Landscape) 
+1. [Results](#Results)
+1. [Recommendations](#Recommendations) 
+1. [Addendum](#Addendum)
 
 ---
 
